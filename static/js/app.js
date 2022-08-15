@@ -26,7 +26,7 @@ function buildTable(data) {
         }
       );
     });
-  };
+  }
 
 function handleClick() {
     // Grab the datetime value from the filter
@@ -45,7 +45,7 @@ function handleClick() {
     // @NOTE: If no date was entered, then filteredData will
     // just be the original tableData.
     buildTable(filteredData);
-  };
+  }
 
 d3.selectAll("#filter-btn").on("click", handleClick);
 
