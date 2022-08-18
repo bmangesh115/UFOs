@@ -42,8 +42,8 @@ The link to JavaScript file.<br>
 
 ## Summary 
 
-The drawback of the design is that it does not give an option to select ranges for each filter.
+The drawback of the design is that it does not give an option to select ranges for each filter and option to sort the data in the table.
 
 Additional recommendations for further development.
 1. Addition of capability to add ranges to each filter so that user can select data based on multiple filters and ranges for each filter.
-2. Addition of capability for users to submit comments or provide addtional data for the site.
+2. Addition of capability for users to sort the data in each column once the data is populated in the table based on search criteria.
