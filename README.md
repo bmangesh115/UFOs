@@ -42,7 +42,8 @@ The link to JavaScript file.<br>
 
 ## Summary 
 
-1. The drawback of the design is that it does not give an option to select ranges for each filter.
-2. Additional recommendations for further development.
-    a. Addition of capability to add ranges to each filter so that user can select data based on multiple filters and ranges for each filter.
-    b. Addition of capability for users to submit comments or provide addtional data for the site.
+The drawback of the design is that it does not give an option to select ranges for each filter.
+
+Additional recommendations for further development.
+1. Addition of capability to add ranges to each filter so that user can select data based on multiple filters and ranges for each filter.
+2. Addition of capability for users to submit comments or provide addtional data for the site.
